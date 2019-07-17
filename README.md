@@ -1,29 +1,4 @@
-Notification Scheduler Sample App (Solution Code)
-=================================================
 
-The Notification Scheduler uses the JobScheduler API. JobScheduler API is only available on devices
-running API 21+. This app schedules  a notification to be delivered when user selected conditions
-are met. The user can toggle conditions such as device charging state, network connectivity,
-override deadline and more.
-
-Pre-requisites
---------------
-
-For this app you should be familiar with:
-
-* Creating and running apps in Android Studio.
-* Delivering notifications.
-* Getting an integer value from a Spinner view.
-* Creating PendingIntents.
-* Using Switch views for user input.
-* Implementing a JobService.
-* Setting job constraints using the JobInfo.Builder.
-* Scheduling a job with the JobScheduler.
-
-Getting Started
----------------
-
-1. Download and open the app in Android Studio.
 
 License
 -------
